@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Michael John
 description: About me
-logo: /assets/img/logo.png
+#logo: /assets/img/logo.png
+logo: /assets/img/me.jpg

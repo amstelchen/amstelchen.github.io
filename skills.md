@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Scripting
 
 > This is a blockquote following a header.
 >
@@ -35,19 +35,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+## DB
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+## OS
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+## Sonstiges
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|

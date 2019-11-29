@@ -2,11 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**Herzlich willkommen** auf meiner persönlichen Bewerbungshomepage. Diese wird auf Github gehostet, einer Website für Quellcodeverwaltung welche hauptsächlich im _Open Source_-Bereich verwendet wird.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hier finden Sie diverse Informationen über mich, einschließlich meiner Qualifikationen.
 
 # Über mich
 

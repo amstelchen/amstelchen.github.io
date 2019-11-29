@@ -37,15 +37,15 @@ end
 
 ## DB
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Oracle DB 9i**, 10g**, 11*
+*   MS SQL 2007, 2015
+*   MySQL, MariaDB, SQLite
 
 ## OS
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+* Windows > 3.11 - 8.1
+* Server 2000, 2003, 2012 etc.
+* Linux 2.0 > 5.3, Debian****, Arch**, CentOS**, SuSe*
 
 ## Sonstiges
 

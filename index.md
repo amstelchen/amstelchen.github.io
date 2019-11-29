@@ -25,11 +25,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ## IT skills
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Ich verfüge über langjährige Berufserfahrung in diversen IT-Unternehmen und -Projekten, mit Datenbanken und Betriebssystemen.
 
-[Link to another page](./skills.html).
+[IT-Skills](./skills.html).
 
 ## Hobbies/Interessen
 

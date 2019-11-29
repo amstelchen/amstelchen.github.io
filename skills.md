@@ -49,10 +49,11 @@ end
 * Windows > 3.11/NT 3.5 - 8.1
 * Server 2000, 2003\*\*, 2005, 2012 etc.
 * VMware, Virtualbox, Proxmox
+* Android (basics)
 
 ## FS
 
-* Dateisysteme allgemein, BTRFS+Snapshots, ZFS+Snapshots
+* Dateisysteme allgemein, UEFI/GPT/MBR, BTRFS+Snapshots, ZFS+Snapshots
 * Storage allgemein, Unraid, FreeNAS, OMV
 
 ## NET
@@ -68,24 +69,15 @@ end
 | PHP          | good `oreos`      | hmm   |
 | C (tlws.)    | good `zoute` drop | yumm  |
 
+## Systeme/Apps
+
+* div. CMS, z.B. ContentNode
+* div. WWS, z.B. JTL-Wawi
+
 ## Support
 
 * tlws. Erfahrung mit First/Second Level Support
 * Contributor/Moderator in div. IT-Foren (ehem. fi.de)
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 

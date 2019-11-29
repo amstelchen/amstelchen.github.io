@@ -37,15 +37,27 @@ end
 
 ## DB
 
-*   Oracle DB 9i**, 10g**, 11*
-*   MS SQL 2007, 2015
-*   MySQL, MariaDB, SQLite
+*   MS Access/MSDE > 2.0, 2000\*\* (obsolete)
+*   Oracle DB 9, 9i\*\*\*, 10g, 11, Enterprise Manager, FGA, TTS, Backup/Restore
+*   MS SQL 2000\*\*, 2005, 2008R2\*\*, 2014, Standard & Enterprise
+*   MySQL, MariaDB, SQLite (hpts. mit PHP/Apache/nginx)
 
 ## OS
 
-* Windows > 3.11 - 8.1
-* Server 2000, 2003, 2012 etc.
-* Linux 2.0 > 5.3, Debian****, Arch**, CentOS**, SuSe*
+* Linux 2.0 > 5.3, Debian\*\*\*\*, Arch\*\*, CentOS\*\*, Oracle Linux, SuSe/SLES, RedHat/RHEL
+* FreeBSD > 6\*\* - 11, FreeNAS
+* Windows > 3.11/NT 3.5 - 8.1
+* Server 2000, 2003\*\*, 2005, 2012 etc.
+* VMware, Virtualbox, Proxmox
+
+## FS
+
+* Dateisysteme allgemein, BTRFS+Snapshots, ZFS+Snapshots
+* Storage allgemein, Unraid, FreeNAS, OMV
+
+## NET
+
+* Networking allgemein, TCP/UDP, Protokolle: HTTP, SSH, NFS, SMB/CIFS, etc.
 
 ## Scripts/Sprachen
 
@@ -56,9 +68,10 @@ end
 | PHP          | good `oreos`      | hmm   |
 | C (tlws.)    | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+## Support
 
-* * *
+* tlws. Erfahrung mit First/Second Level Support
+* Contributor/Moderator in div. IT-Foren (ehem. fi.de)
 
 ### Here is an unordered list:
 

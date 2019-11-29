@@ -33,13 +33,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 [Link to another page](./skills.html).
 
-## Hobbies
+## Hobbies/Interessen
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   IT/EDV allgemein (obvs.)
+*   Modellbau
+*   Raumfahrt &#128640;
+*   Nukleartechnik &#9762;
 
 ### Small image
 

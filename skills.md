@@ -35,6 +35,16 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+## WEB
+
+*   Apache seit 1.3
+*   IIS seit 5.0/2000
+*   Lighttpd
+*   Nginx
+*   PHP/FastCGI/MySQL/MSSQL/Oracle/PostgreSQL
+*   Security: OpenSSL, OpenSSH
+*   Load balancing, Round robin, Staging
+
 ## DB
 
 *   MS Access/MSDE > 2.0, 2000\*\* (obsolete)
@@ -49,7 +59,7 @@ end
 * Windows > 3.11/NT 3.5 - 8.1
 * Server 2000, 2003\*\*, 2005, 2012 etc.
 * VMware, Virtualbox, Proxmox
-* Android (basics)
+* Android (CyanogenMod, LineageOS)
 
 ## FS
 
@@ -58,16 +68,14 @@ end
 
 ## NET
 
-* Networking allgemein, TCP/UDP, Protokolle: HTTP, SSH, NFS, SMB/CIFS, etc.
+* Networking allgemein, TCP/UDP, Protokolle: HTTP, WebDAV, SSH, NFS, SMB/CIFS, etc.
 
 ## Scripts/Sprachen
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| bash, zsh    | good swedish fish | nice  |
-| C# (tlws.)   | good and plenty   | nice  |
-| PHP          | good `oreos`      | hmm   |
-| C (tlws.)    | good `zoute` drop | yumm  |
+* bash, zsh
+* PHP
+* C# (tlws.)
+* C (tlws.)
 
 ## Systeme/Apps
 

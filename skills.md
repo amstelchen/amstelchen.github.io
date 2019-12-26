@@ -52,27 +52,11 @@ Hier finden Sie diverse Informationen über mich, einschließlich meiner Qualifi
 
 ## Systeme/Apps
 
-* div. CMS, z.B. ContentNode
+* div. CMS, z.B. ContentNode, imperia, TYPO3, Wordpress
+* div Onlineshops, z.B. osCommerce, OXID eShop, Zen Cart
 * div. WWS, z.B. JTL-Wawi
 
 ## Support
 
 * tlws. Erfahrung mit First/Second Level Support
 * Contributor/Moderator in div. IT-Foren (ehem. fi.de)
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-

@@ -44,7 +44,3 @@ Ich verfüge über langjährige Berufserfahrung in diversen IT-Unternehmen und -
 $ whatis linux
 linux: nothing appropriate.
 ```
-
-```
-The final element.
-```

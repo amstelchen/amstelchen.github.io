@@ -46,17 +46,20 @@ Hier finden Sie diverse Informationen über mich, einschließlich meiner Qualifi
 ## Scripts/Sprachen
 
 * bash, zsh
-* PHP
-* C# (tlws.)
+* PHP seit 3.0
+* VB.NET/C# (tlws.)
 * C (tlws.)
+* Python (wx, GTK)
+* Rust :baby:
 
 ## Systeme/Apps
 
 * div. CMS, z.B. ContentNode, imperia, TYPO3, Wordpress
 * div Onlineshops, z.B. osCommerce, OXID eShop, Zen Cart
 * div. WWS, z.B. JTL-Wawi
+* git, svn
 
 ## Support
 
 * tlws. Erfahrung mit First/Second Level Support
-* Contributor/Moderator in div. IT-Foren (ehem. fi.de)
+* Contributor/Moderator in div. IT-Foren (ehem. fachinformatiker.de)

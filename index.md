@@ -19,8 +19,12 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <dd>26.10.1978</dd>
 <dt>Geburtsort</dt>
 <dd>Wien</dd>
+<dt>Wohnort</dt>
+<dd>Neunkirchen/Ternitz</dd>
 <dt>Familienstand</dt>
 <dd>ledig</dd>
+<dt>Führerschein</dt>
+<dd>B</dd>
 </dl>
 
 ## IT skills
@@ -35,6 +39,7 @@ Ich verfüge über langjährige Berufserfahrung in diversen IT-Unternehmen und -
 *   Modellbau
 *   Raumfahrt &#128640;
 *   Nukleartechnik &#9762;
+*   number crunching (BOINC) 
 
 ### Octocat
 

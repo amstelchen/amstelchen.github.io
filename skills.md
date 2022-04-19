@@ -50,7 +50,7 @@ Hier finden Sie diverse Informationen über mich, einschließlich meiner Qualifi
 * VB.NET/C# (tlws.)
 * C (tlws.)
 * Python (wx, GTK)
-* Rust :baby:
+* Rust &#128118;
 
 ## Systeme/Apps
 

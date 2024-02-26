@@ -8,9 +8,7 @@ Hier finden Sie diverse Informationen über mich, einschließlich meiner Qualifi
 
 # Über mich
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-### Definition lists can be used with HTML syntax.
+### Persönliche Daten
 
 <dl>
 <dt>Name</dt>
@@ -27,6 +25,8 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <dd>B</dd>
 </dl>
 
+Meinen aktuellen Lebenslauf können sie [hier herunterladen](download/Lebenslauf-MJ.pdf).
+
 ## IT skills
 
 Ich verfüge über langjährige Berufserfahrung in diversen IT-Unternehmen und -Projekten, mit Datenbanken und Betriebssystemen.
@@ -40,12 +40,3 @@ Ich verfüge über langjährige Berufserfahrung in diversen IT-Unternehmen und -
 *   Raumfahrt &#128640;
 *   Nukleartechnik &#9762;
 *   number crunching (BOINC) 
-
-### Octocat
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-```
-$ whatis linux
-linux: nothing appropriate.
-```

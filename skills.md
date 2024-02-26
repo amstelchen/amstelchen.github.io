@@ -49,7 +49,7 @@ Hier finden Sie diverse Informationen über mich, einschließlich meiner Qualifi
 * PHP seit 3.0
 * VB.NET/C# (tlws.)
 * C (tlws.)
-* Python (wx, GTK)
+* Python (wxWidgets, GTK, Qt, Kivy)
 * Rust &#128118;
 
 ## Systeme/Apps
